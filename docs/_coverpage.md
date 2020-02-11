@@ -1,4 +1,2 @@
-```html
-<img src='img/get.jpg'></img>
-```
+<img src='img/get.jpg' style='width:50vh'>
 
