@@ -3,14 +3,10 @@
 > An awesome project.
 >
 > ```js
-> let a= 2
-> let b=1
-> console.log(a,b)
+> 1111111222222
+> let a = 1
 > ```
->
-> 
 >
 
 ## 项目简介
 
-## 项目组成
