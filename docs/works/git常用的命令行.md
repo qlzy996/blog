@@ -1,8 +1,4 @@
----
-title: git常用的命令行
-date: 2019-12-20 15:50:51
-tags:
----
+
 git常用的命令行
 git clone https://github.com/wlz1244/qingoo.git   //下载一个master分支代码 
 git branch wlz  //新建wlz分支
