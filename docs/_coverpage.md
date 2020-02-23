@@ -1,6 +1,6 @@
-<img src='./img/get.jpg' style='width:90vh'>
+<!-- <img src='./img/get.jpg' style='width:90vh'> -->
 
-<h5>文件夹</h5>
+
 <a href='#/works/css/_sidebar.md'>CSS</a>
 <a href='#/works/js/_sidebar.md'>JS</a>
 <a href='#/works/obj/_sidebar.md'>Obj</a>
