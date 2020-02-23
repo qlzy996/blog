@@ -1,4 +1,4 @@
-<!-- <img src='./img/get.jpg' style='width:90vh'> -->
+<img src='./img/get.jpg' style='width:50vh'>
 
 
 <a href='#/works/css/_sidebar.md'>CSS</a>
