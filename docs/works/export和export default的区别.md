@@ -1,6 +1,7 @@
 
 
-export和export default的区别
+**export和export default的区别**
+
 一、export的使用
 1.直接输出
 export let words = 'hello world!!!' 
@@ -18,7 +19,7 @@ function output() {
 }
 
 export {firstWords, secondWords, thirdWords, output}
-复制代码
+
 二、export default的使用
 1.export default 用于规定模块的默认对外接口
 2.很显然默认对外接口只能有一个，所以 export default 在同一个模块中只能出现一次
