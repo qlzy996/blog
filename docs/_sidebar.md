@@ -6,6 +6,7 @@
 <a href='#/works/HTML.md'>HTML</a>
 <a href='#/works/node.js.md'>node.js</a>
 <a href='#/works/安全类.md'>安全类</a>
+<a href='#/works/原生ajax.md'>原生ajax</a>
 <a href='#/works/同源-跨域.md'>同源-跨域</a>
 <a href='#/works/页面性能优化.md'>页面性能优化</a>
 <a href='#/works/gulp&webpack.md'>gulp&webpack</a>
