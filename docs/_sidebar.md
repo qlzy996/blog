@@ -4,6 +4,7 @@
 <h2>Articles</h2>
 <a href='#/works/docsify.md'>docsify</a>
 <a href='#/works/HTML.md'>HTML</a>
+<a href='#/works/PC项目笔记.md'>PC项目笔记</a>
 <a href='#/works/node.js.md'>node.js</a>
 <a href='#/works/安全类.md'>安全类</a>
 <a href='#/works/原生ajax.md'>原生ajax</a>
