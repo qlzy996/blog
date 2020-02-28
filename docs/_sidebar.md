@@ -1,18 +1,45 @@
-<!-- docs/_sidebar.md -->
-
-* [Home](/)
-<h2>Articles</h2>
-<a href='#/works/docsify.md'>docsify</a>
-<a href='#/works/HTML.md'>HTML</a>
-<a href='#/works/PC项目笔记.md'>PC项目笔记</a>
-<a href='#/works/原生ajax.md'>原生ajax</a>
-<a href='#/works/页面性能优化.md'>页面性能优化</a>
-<a href='#/works/gulp&webpack.md'>gulp&webpack</a>
-<a href='#/works/数组去重.md'>数组去重</a>
-<a href='#/works/Git常用操作.md'>Git常用操作</a>
-<a href='#/works/git常用的命令行.md'>git常用的命令行</a>
-<a href='#/works/Typora快捷键.md'>Typora快捷键</a>
-<a href='#/works/VS Code 使用积累.md'>VS Code 使用积累</a>
-<a href='#/works/常用数组方法总结.md'>常用数组方法总结</a>
-<a href='#/works/函数防抖与函数节流.md'>函数防抖与函数节流</a>
-<a href='#/works/前端构建工具（Gulp）.md'>前端构建工具（Gulp）</a>
+* javascript
+    * [基础](./list/js/js_basis)
+    * [高级](./list/js/js_senior)
+* Dom/Bom
+    * [原生dom操作](./list/Dom/dom)
+    * [bom相关](./list/Dom/bom)
+* jquery
+    * [jquery](./list/jquery/jquery)
+* 移动端部分
+    * [移动端](./list/mobile/mobile)
+* http协议
+    * [http协议](./list/http/http)
+    * [浏览器缓冲机制](./list/http/hc)
+* 正则表达式 
+    * [正则表达式](./list/zhengze/zhengze)
+* node 
+    * [node部分](./list/node/node)
+* ES6
+    * [ES6语法](./list/es6/es6)
+* webpack
+    * [webpack基本配置](./list/webpack/webpack)
+    * [具体配置项](./list/webpack/peizhi)
+* 面试题
+    * [html面试题](./interview/html_interview.md)
+    * [css面试题](./interview/css_interview.md)
+    * [js面试题](./interview/js_interview)
+    * [js代码题](./interview/js)
+    * [面试题](./interview/57)
+    * [小程序](./interview/wx)
+    * [vue](./interview/vue)
+* 原有
+    * [docsify](./works/docsify.md)
+    * [HTML](./works/HTML.md)
+    * [PC项目笔记](./works/PC项目笔记.md)
+    * [原生ajax](./works/原生ajax.md)
+    * [页面性能优化](./works/页面性能优化.md)
+    * [gulp&webpack](./works/gulp&webpack.md)
+    * [数组去重](./works/数组去重.md)
+    * [Git常用操作](./works/Git常用操作.md)
+    * [git常用的命令行](./works/git常用的命令行.md)
+    * [Typora快捷键](./works/Typora快捷键.md)
+    * [VS Code 使用积累](./works/VS Code 使用积累.md)
+    * [常用数组方法总结](./works/常用数组方法总结.md)
+    * [函数防抖与函数节流](./works/函数防抖与函数节流.md)
+    * [前端构建工具（Gulp）](./works/前端构建工具（Gulp）.md)
