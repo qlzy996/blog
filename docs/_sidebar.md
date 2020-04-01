@@ -6,6 +6,8 @@
     * [bom相关](./list/Dom/bom)
 * jquery
     * [jquery](./list/jquery/jquery)
+* 通用设计模式
+    * [通用设计模式](./works/通用设计模式/通用设计模式)
 * 移动端部分
     * [移动端](./list/mobile/mobile)
 * http协议
@@ -20,6 +22,7 @@
 * webpack
     * [webpack基本配置](./list/webpack/webpack)
     * [具体配置项](./list/webpack/peizhi)
+    * [webpack总结](./list/webpack/webpack总结)
 * 面试题
     * [html面试题](./interview/html_interview.md)
     * [css面试题](./interview/css_interview.md)
