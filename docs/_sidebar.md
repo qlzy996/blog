@@ -19,6 +19,8 @@
     * [node部分](./list/node/node)
 * ES6
     * [ES6语法](./list/es6/es6)
+* angular
+    * [angularjs](./works/AngularJS总结)
 * webpack
     * [webpack基本配置](./list/webpack/webpack)
     * [具体配置项](./list/webpack/peizhi)
