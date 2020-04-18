@@ -6,6 +6,8 @@
     * [bom相关](./list/Dom/bom)
 * jquery
     * [jquery](./list/jquery/jquery)
+* 自动化测试
+    * [自动化测试](./list/AutoTest/自动化测试)
 * 通用设计模式
     * [通用设计模式](./works/通用设计模式/通用设计模式)
 * 移动端部分
