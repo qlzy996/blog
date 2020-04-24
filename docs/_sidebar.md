@@ -37,9 +37,7 @@
     * [vue](./interview/vue)
 * 原有
     * [docsify](./works/docsify.md)
-    * [VuePC端项目代码文档](./works/VuePC端项目代码文档.md)
     * [HTML](./works/HTML.md)
-    * [PC项目笔记](./works/PC项目笔记.md)
     * [原生ajax](./works/原生ajax.md)
     * [页面性能优化](./works/页面性能优化.md)
     * [gulp&webpack](./works/gulp&webpack.md)
@@ -47,7 +45,7 @@
     * [Git常用操作](./works/Git常用操作.md)
     * [git常用的命令行](./works/git常用的命令行.md)
     * [Typora快捷键](./works/Typora快捷键.md)
-    * [VS Code 使用积累](./works/VS Code 使用积累.md)
+    * [VSCode使用积累](./works/VSCode使用积累.md)
     * [常用数组方法总结](./works/常用数组方法总结.md)
     * [函数防抖与函数节流](./works/函数防抖与函数节流.md)
     * [项目开发介绍](./works/项目开发介绍.md)
